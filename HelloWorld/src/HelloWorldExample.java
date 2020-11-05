@@ -2,7 +2,7 @@
 public class HelloWorldExample {
 
 	public static void main(String[] args) {
-		// Output Hello World to the user
+		// example 3 of merging a branch
 		System.out.println("Hello world");
 	}
 
